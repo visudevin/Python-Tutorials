@@ -75,3 +75,7 @@ print("\nye raha result:", numbers)
 # ------------------------------------------
 numbers[2] = 98          # Value change ho raha hai list ke andar
 print("After changing index 2 to 98:", numbers)
+
+#value in tuple not change 
+#only value change in list 
+
